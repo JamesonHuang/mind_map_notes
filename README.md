@@ -3,7 +3,8 @@ mind_map_notes
 
 读书笔记（ 思维导图形式 ）
 
-why:    1、写纸质笔记太费时间
+why:    
+        1、写纸质笔记太费时间
         
         2、很多东东用文字表达不直观
         
@@ -11,7 +12,8 @@ why:    1、写纸质笔记太费时间
         
         4、易懂，有利于迅速回顾知识点
 
-how：   软件下载地址：
+how：   
+        软件下载地址：
                 Mindjet MindManager 2012：      http://rj.baidu.com/soft/detail/15140.html?ald
 
 Content:
