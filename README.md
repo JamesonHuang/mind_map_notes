@@ -3,7 +3,7 @@
 
 
 
->##why:    
+##why:    
         
         
 >1、很多东东用文字表达不直观
@@ -14,17 +14,28 @@
 
 >4、易懂，有利于迅速回顾知识点
 
->##how：   
->>软件下载地址：[Mindjet MindManager 2012：](http://rj.baidu.com/soft/detail/15140.html?ald)
+##how：   
+>软件下载地址：[Mindjet MindManager 2012：](http://rj.baidu.com/soft/detail/15140.html?ald)
 
->##Content:
+##Content:
       
->>1、计算机专业相关的书籍
->>>[Effective C++](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++.gif)
-	
+>1、计算机专业相关的书籍
+>>* [Effective C++](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++.gif)
 
->>2、个人目标、职业规划的思维导图
+>>* [C++ Primer](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/c++%20primer.gif)
 
->>3、互联网产品相关的书籍
+>>* [C++代码风格](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/C++%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC%20.gif)
 
->>4、历史、哲学、心理相关的书籍
+>>* [北大poj教材（程序设计导引及在线实践）](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%8C%97%E5%A4%A7poj%E6%95%99%E6%9D%90%EF%BC%88%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AF%BC%E5%BC%95%E5%8F%8A%E5%9C%A8%E7%BA%BF%E5%AE%9E%E8%B7%B5%EF%BC%89.gif)
+
+>>* [大话设计模式](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.gif)
+
+>>* [嵌入式回顾笔记](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9B%9E%E9%A1%BE%E7%AC%94%E8%AE%B0%20.gif)
+
+>2、个人目标、职业规划的思维导图
+>>* [2014-2015目标](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E4%B8%AA%E4%BA%BA%E8%A7%84%E5%88%92/2014-2015%E7%9B%AE%E6%A0%87/2014-15%E7%9B%AE%E6%A0%87%20.gif)
+
+
+>3、互联网产品相关的书籍
+
+>4、历史、哲学、心理相关的书籍
