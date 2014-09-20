@@ -37,5 +37,6 @@
 
 
 >3、互联网产品相关的书籍
+>>* [淘宝技术这十年](https://github.com/JamesonHuang/mind_map_notes/blob/master/%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4%E7%AC%94%E8%AE%B0.doc)
 
 >4、历史、哲学、心理相关的书籍
