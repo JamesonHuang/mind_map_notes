@@ -24,6 +24,8 @@
 
 >>* [C++ Primer](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/c++%20primer.gif)
 
+>>* [Google C++编程风格指南](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/google%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.gif)
+
 >>* [C++代码风格](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/C++%E4%BB%A3%E7%A0%81%E9%A3%8E%E6%A0%BC%20.gif)
 
 >>* [北大poj教材（程序设计导引及在线实践）](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%8C%97%E5%A4%A7poj%E6%95%99%E6%9D%90%EF%BC%88%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%AF%BC%E5%BC%95%E5%8F%8A%E5%9C%A8%E7%BA%BF%E5%AE%9E%E8%B7%B5%EF%BC%89.gif)
