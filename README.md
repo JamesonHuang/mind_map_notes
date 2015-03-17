@@ -20,8 +20,7 @@
 ##Content:
       
 >1、计算机专业相关的书籍
-
->>* [Effective C++(概览版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++%20(preview).gif)     
+>>* [Effective C++(概览版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++%20(preview).gif)   
 > [Effective C++(详情版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++.gif)
 
 >>* [C++ Primer](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/c++%20primer.gif)
@@ -34,9 +33,8 @@
 
 >>* [大话设计模式](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%A4%A7%E8%AF%9D%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.gif)
 
->>* [嵌入式回顾笔记(概览版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9B%9E%E9%A1%BE%E7%AC%94%E8%AE%B0%20(preview).gif)     
+>>* [嵌入式回顾笔记(概览版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9B%9E%E9%A1%BE%E7%AC%94%E8%AE%B0%20(preview).gif)    
 > [嵌入式回顾笔记(详情版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%9B%9E%E9%A1%BE%E7%AC%94%E8%AE%B0%20.gif)
-
 
 >2、个人目标、职业规划的思维导图
 >>* [2014-2015目标](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E4%B8%AA%E4%BA%BA%E8%A7%84%E5%88%92/2014-2015%E7%9B%AE%E6%A0%87/2014-15%E7%9B%AE%E6%A0%87%20.gif)
