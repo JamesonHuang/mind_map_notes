@@ -19,7 +19,7 @@
 
 ##Content:
       
->1、计算机专业相关的书籍
+1、计算机专业相关的书籍
 >* [Effective C++(概览版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++%20(preview).gif)   
 > [Effective C++(详情版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9B%B8%E5%85%B3/Completed/effectiveC++.gif)
 
@@ -59,14 +59,14 @@
 > [操作系统知识要点总结(详情版)](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/Completing/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%9F%BA%E7%A1%80%EF%BC%88%E5%9F%BA%E4%BA%8E%E6%96%B0%E7%BC%96%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%89.gif)
 
 
->3、个人目标、职业规划的思维导图
+2、个人目标、职业规划的思维导图
 >* [2014-2015目标](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E4%B8%AA%E4%BA%BA%E8%A7%84%E5%88%92/2014-2015%E7%9B%AE%E6%A0%87/2014-15%E7%9B%AE%E6%A0%87%20.gif)
 
 
->4、互联网产品相关的书籍
+3、互联网产品相关的书籍
 >* [淘宝技术这十年](https://github.com/JamesonHuang/mind_map_notes/blob/master/%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81/%E6%B7%98%E5%AE%9D%E6%8A%80%E6%9C%AF%E8%BF%99%E5%8D%81%E5%B9%B4%E7%AC%94%E8%AE%B0.doc)
 
->5、历史、哲学、心理相关的书籍
+4、历史、哲学、心理相关的书籍
 >* [讲谈社--神话时代 夏王朝](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E5%8E%86%E5%8F%B2/1-%E7%A5%9E%E8%AF%9D%E6%97%B6%E4%BB%A3%20%E5%A4%8F%E7%8E%8B%E6%9C%9D%20.gif)
 
 >* [极简欧洲简史](https://raw.githubusercontent.com/JamesonHuang/mind_map_notes/master/%E5%8E%86%E5%8F%B2/%E6%9E%81%E7%AE%80%E6%AC%A7%E6%B4%B2%E7%AE%80%E5%8F%B2.gif)
